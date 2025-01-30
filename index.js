@@ -5,7 +5,7 @@ const fs = require("fs");
 (async () => {
   const AO3_URL = "https://archiveofourown.org";
   const BOOKMARKS_URL =
-    "https://archiveofourown.org/users/your_username/bookmarks"; //copy paste here your bookmarks url or username
+    "https://archiveofourown.org/users/your_username/bookmarks"; //Copy paste here your bookmarks url or username
   const DOWNLOAD_PATH = path.join(process.cwd(), "downloads");
 
   if (!fs.existsSync(DOWNLOAD_PATH)) {
