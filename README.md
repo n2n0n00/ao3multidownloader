@@ -30,7 +30,7 @@ A Puppeteer-based script to automate downloading **EPUB** files from your AO3 (A
 
   `git clone https://github.com/n2n0n00/ao3multidownloader.git`
   
-  `cd ao3-bookmark-downloader`
+  `cd ao3multidownloader`
 
 ## Install dependencies:
 
